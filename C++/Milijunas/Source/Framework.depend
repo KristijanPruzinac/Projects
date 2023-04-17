@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1619691349 source:c:\users\kikomali25\desktop\folders\c++\project tools\framework\framework.cpp
+	<framework.h>
+
+1619691378 c:\users\kikomali25\desktop\folders\c++\project tools\framework\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<map>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<io.h>
+	<process.h>
+	<stdio.h>
+
+1619691305 source:c:\users\kikomali25\desktop\folders\c++\project tools\framework\main.cpp
+	<iostream>
+	<framework.h>
+
+1618846313 source:c:\users\kikomali25\desktop\folders\c++\projects\opengl text\framework.cpp
+	<framework.h>
+
+1618845641 c:\users\kikomali25\desktop\folders\c++\projects\opengl text\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<io.h>
+	<process.h>
+	<stdio.h>
+
+1618846262 source:c:\users\kikomali25\desktop\folders\c++\projects\opengl text\main.cpp
+	<iostream>
+	<framework.h>
+
+1619227714 source:c:\users\kikomali25\desktop\folders\c++\small projects\framework\main.cpp
+	<iostream>
+	<framework.h>
+
+1619227909 c:\users\kikomali25\desktop\folders\c++\small projects\framework\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<map>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<io.h>
+	<process.h>
+	<stdio.h>
+
+1619228457 source:c:\users\kikomali25\desktop\folders\c++\small projects\framework\framework.cpp
+	<framework.h>
+
+1619730266 source:c:\users\kikomali25\desktop\folders\c++\small projects\milijunas\framework.cpp
+	<framework.h>
+
+1619727611 c:\users\kikomali25\desktop\folders\c++\small projects\milijunas\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<map>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<io.h>
+	<process.h>
+	<stdio.h>
+
+1619822971 source:c:\users\kikomali25\desktop\folders\c++\small projects\milijunas\main.cpp
+	<iostream>
+	<framework.h>
+	<irrKlang.h>
+

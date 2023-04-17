@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1616153733 source:c:\users\kikomali25\desktop\folders\c++\opengl test\main.cpp
+	<iostream>
+	<stdlib.h>
+	<ctime>
+	<framework.h>
+	<irrKlang.h>
+
+1616023709 c:\users\kikomali25\desktop\folders\c++\opengl test\framework.h
+	<GL/freeglut.h>
+	<stdlib.h>
+
+1616023751 source:c:\users\kikomali25\desktop\folders\c++\opengl test\framework.cpp
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<sstream>
+	<framework.h>
+
+1617643002 source:c:\users\kikomali25\desktop\folders\c++\projects\connect 4 algorithm\main.cpp
+	<iostream>
+	<framework.h>
+
+1617643627 c:\users\kikomali25\desktop\folders\c++\projects\connect 4 algorithm\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+
+1617643976 source:c:\users\kikomali25\desktop\folders\c++\projects\connect 4 algorithm\framework.cpp
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<sstream>
+	<framework.h>
+
+1618596265 source:c:\users\kikomali25\desktop\folders\c++\projects\gl text\framework.cpp
+	<framework.h>
+
+1618596257 c:\users\kikomali25\desktop\folders\c++\projects\gl text\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<io.h>
+	<process.h>
+	<stdio.h>
+
+1618598695 source:c:\users\kikomali25\desktop\folders\c++\projects\gl text\main.cpp
+	<iostream>
+	<framework.h>
+	<iostream>
+	<cmath>
+	<cstring>
+	<fstream>
+
+1618596265 source:c:\users\kikomali25\desktop\folders\c++\small projects\bfs maze\framework.cpp
+	<framework.h>
+
+1618596257 c:\users\kikomali25\desktop\folders\c++\small projects\bfs maze\framework.h
+	<GL/freeglut.h>
+	<chrono>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<vector>
+	<cstring>
+	<cmath>
+	<conio.h>
+	<io.h>
+	<process.h>
+	<stdio.h>
+
+1618598695 source:c:\users\kikomali25\desktop\folders\c++\small projects\bfs maze\main.cpp
+	<iostream>
+	<framework.h>
+	<iostream>
+	<cmath>
+	<cstring>
+	<fstream>
+
